@@ -1,9 +1,9 @@
 # Abdur Rehman — Portfolio Backend
 
-The backend service powering the chatbot on [my developer portfolio](https://github.com/abdurehmaan366/portfolio-frontend). A lightweight Express.js API that proxies visitor messages to the Groq LLM API, with rate limiting to protect the free quota.
+The backend service powering the chatbot on [my developer portfolio](https://github.com/abdurehmaan366/abdur-portfolio-frontend). A lightweight Express.js API that proxies visitor messages to the Groq LLM API, with rate limiting to protect the free quota.
 
 > **Part of a two-repo portfolio system.**
-> Frontend → [portfolio-frontend](https://github.com/abdurehmaan366/portfolio-frontend)
+> Frontend → [portfolio-frontend](https://github.com/abdurehmaan366/abdur-portfolio-frontend)
 > Backend → this repo
 
 ![Node.js](https://img.shields.io/badge/Node.js-ES6+-339933?logo=node.js&logoColor=white)
